@@ -4,7 +4,7 @@ class Solution:
     def removeConsecutiveCharacter(self, S):
         i=0
         new=''
-        if len(s)<2:
+        if len(S)<2:
             return S
         while i<len(S)-1:
             char=S[i]
