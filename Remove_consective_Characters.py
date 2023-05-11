@@ -14,4 +14,4 @@ class Solution:
         if new[-1]!=S[-1]:
             new+=S[-1]
         return new
-#https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1?page=1&difficulty[]=-1&status[]=unsolved&category[]=Strings&sortBy=submissions  
+# https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1?page=1&difficulty[]=-1&status[]=unsolved&category[]=Strings&sortBy=submissions  
