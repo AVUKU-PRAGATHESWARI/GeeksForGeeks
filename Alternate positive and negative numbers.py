@@ -4,7 +4,6 @@ class Solution:
     def rearrange(self,arr, n):
         positive=[]
         negative=[]
-        result=[]
         
         diff=abs(len(positive)-len(negative))
         for i in arr:
