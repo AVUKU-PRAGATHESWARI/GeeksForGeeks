@@ -7,7 +7,6 @@ class Solution:
             result = max(result*int(S[i]) , result+int(S[i]))
         return result
                 
-
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
