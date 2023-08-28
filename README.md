@@ -1,4 +1,0 @@
-# GeeksForGeeks
-
-
-Challenge for myself..
