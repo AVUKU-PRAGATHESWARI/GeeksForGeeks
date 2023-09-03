@@ -7,7 +7,6 @@ class Solution:
         r = ((N>>D)|(N<<(16-D)))&65535
         return l,r
 
-
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
